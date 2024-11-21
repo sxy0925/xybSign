@@ -25,7 +25,7 @@ const config = {
     // },
   ],
   qmsgKey: "", //qmsg酱key
-  qmsgTo: 3421984962"", //推送的qq号,用,分隔(可选)
+  qmsgTo: "3421984962", //推送的qq号,用,分隔(可选)
 };
 
 const modeCN = {
